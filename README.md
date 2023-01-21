@@ -2,8 +2,8 @@
 Here you will find 3D printed enclosures, mounts, buttons, and community submitted mods for the Expatria hardware.
 
 ## Submitting Mods
-When submitting a PR for a mod, please update the table with the following:
-- Your desired name
+When submitting a PR for a mod, please update the table in the relevant section with the following:
+- Your desired creator name
 - A mod title & link to your sub-folder
 - A description of what you have created
 - Compatibility with the various Expatria hardware, if the table within the section includes space for this. Use `:heavy_check_mark:` for :heavy_check_mark:, `:x:` for :x: and `:grey_question:` for :grey_question:
