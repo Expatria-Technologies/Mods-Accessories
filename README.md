@@ -19,6 +19,7 @@ Within the sub-folder for your mod, please include a brief README with any detai
 | Expatria | [Jog2k Deluxe](./Expatria/Jog2K_Deluxe) | Jog2K Deluxe Enclosure |
 | Expatria | [Jog2k Base](./Expatria/Jog2K_Base) | Jog2K Base Enclosure |
 | Logan | [FDM Buttons](./Community_Submissions/FDM_Buttons) | FDM Buttons for Jog2K Deluxe Enclosure |
+| RR |  [High-Vis Buttons](./Community_Submissions/Simplified_High_Vis_Buttons) | Simplified High Vis Buttons for Jog2K Deluxe Enclosure |
 
 
 ## Flexi-HAL
