@@ -6,9 +6,9 @@ A more involved build for the Jog2K enclosure.
 
 ### Variants
 There are currently three variants of the Jog2K Deluxe, which support slight hardware differences. 
-- '0.96in' supports all revisions up to and including A5, with a 0.96" OLED connected directly to the PCB via header pins
+- 'Slim' supports revision A6 (two Type-C connectors), with a 1.3" OLED connected via a short cable.  This is the latest chip-down PCBA from Expatria.
 - '1.3in' supports all revisions up to and including A5, with a 1.3" OLED connected via a short cable
-- 'Slim' supports revision A6 (two Type-C connectors), with a 1.3" OLED connected via a short cable
+- '0.96in' supports all revisions up to and including A5, with a 0.96" OLED connected directly to the PCB via header pins
 
 The differences are all in the enclosure components; the filenames within the Enclosure directory begin with the variant they are suitable for. The same buttons are used for all variants.
 
