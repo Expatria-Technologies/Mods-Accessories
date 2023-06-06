@@ -81,7 +81,9 @@ Holes for the fasteners that secure the lid are designed to accept heatset inser
 ![](./Images/Buttons_Top.png)
 
 - **Rev A5 and prior only:** Align the screen and either heat-stake the plastic mounting pins or use the support bracket.
+## DO NOT SOLDER THE SCREEN DIRECTLY TO THE PCB
 - **1.3" display versions, including Slim:** Connect screen to PCB via short wires or cable.
+
 - Align PCB with holes/captures
 - Insert M2.6 x 8mm self tapping screws where shown and tighten (display cable not shown):
 
