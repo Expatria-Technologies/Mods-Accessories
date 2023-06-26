@@ -15,7 +15,7 @@ The majority of the following instructions are focused on the Slim variant, whic
 ## Buttons
 Buttons are designed for MSLA printing, and are assembled from 2 parts. The 'lightpipe' or 'core', and the 'cover'. Cores should be printed in white, lightpipes in translucent, and covers in black. There is a small amount of clearance designed in to the parts to allow for slight differences in resin tuning. Button pieces can be glued together with a small amount of CA glue if needed. 
 
-In addition to the buttons contained here, there are several sets of community contributed mods for FDM/FFF printed buttons. They can be found in the table in the top-level README. 
+In addition to the buttons contained here, there are several sets of community contributed mods for FDM/FFF printed buttons. They can be found in the table in the [top-level README](https://github.com/Expatria-Technologies/Mods-Accessories). 
 
 ## Enclosure
 The enclosure is designed to be FDM/FFF printed with a standard 0.4mm nozzle in PLA. Print tolerances are somewhat critical here to avoid excess rotational slop in the buttons; ensure your extrusion multiplier is well tuned for your filament. Materials other than PLA may require compensation for shrinkage. 
