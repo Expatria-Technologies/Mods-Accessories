@@ -27,6 +27,7 @@ Within the sub-folder for your mod, please include a brief README with any detai
 | Creator | Mod Title | Description | 
 | --- | --- | --- |
 | Expatria | [Flexi-HAL DIN Mount](./Expatria/Flexi-HAL_DIN_Mount) | Flexi-HAL DIN Mount |
+| TAKUYA | [Flexi-HAL + PI DIN Mount](./Community_Submissions/FLEXI_HAL_PI_DIN_RAIL_MOUNT) | Flexi-HAL + PI DIN Mount |
 
 
 ## HAL2K

@@ -15,7 +15,7 @@ The majority of the following instructions are focused on the Slim variant, whic
 ## Buttons
 Buttons are designed for MSLA printing, and are assembled from 2 parts. The 'lightpipe' or 'core', and the 'cover'. Cores should be printed in white, lightpipes in translucent, and covers in black. There is a small amount of clearance designed in to the parts to allow for slight differences in resin tuning. Button pieces can be glued together with a small amount of CA glue if needed. 
 
-In addition to the buttons contained here, there are several sets of community contributed mods for FDM/FFF printed buttons. They can be found in the table in the top-level README. 
+In addition to the buttons contained here, there are several sets of community contributed mods for FDM/FFF printed buttons. They can be found in the table in the [top-level README](https://github.com/Expatria-Technologies/Mods-Accessories). 
 
 ## Enclosure
 The enclosure is designed to be FDM/FFF printed with a standard 0.4mm nozzle in PLA. Print tolerances are somewhat critical here to avoid excess rotational slop in the buttons; ensure your extrusion multiplier is well tuned for your filament. Materials other than PLA may require compensation for shrinkage. 
@@ -81,7 +81,9 @@ Holes for the fasteners that secure the lid are designed to accept heatset inser
 ![](./Images/Buttons_Top.png)
 
 - **Rev A5 and prior only:** Align the screen and either heat-stake the plastic mounting pins or use the support bracket.
+## DO NOT SOLDER THE SCREEN DIRECTLY TO THE PCB
 - **1.3" display versions, including Slim:** Connect screen to PCB via short wires or cable.
+
 - Align PCB with holes/captures
 - Insert M2.6 x 8mm self tapping screws where shown and tighten (display cable not shown):
 
@@ -105,5 +107,5 @@ The resin buttons may warp slightly at the base as the resin shrinks. The cleara
 - Print the black resin parts last. The resin will shrink in the first day or so after printing, and it will be easier to get them on if the other parts have shrunk a bit first. If print settings are well tuned, the black covers will fit tightly enough after shrinking that they will stay put on their own. 
 - Likewise, the buttons may fit too tightly in the enclosure right after printing. They will loosen up a bit after a day or so of resting, when they are at final dimension.
 - A tapered reamer of the type typically used for RC car bodyshells is an ideal tool for cleaning up first layer 'squish' in round holes or fine tuning the lightpipe holes. - https://www.aliexpress.com/item/1005003460682946.html They're usually available on Amazon for about $10 too.
-- The bolt pattern on the low-cost 1.3 inch OLED screens is not consistent across vendors.  Jog2K Slim PCBA from Expatria are currently shipped with a 1.3 inch OLED from this Aliexpress listing: https://www.aliexpress.com/item/32839718675.html **These displays are only compatible with the Slim enclosure components.**
+- The bolt pattern on the low-cost 1.3 inch OLED screens is not consistent across vendors.  Jog2K Slim PCBA from Expatria have used a 1.3 inch OLED from this Aliexpress listing: https://www.aliexpress.com/item/32839718675.html **These displays are only compatible with the Slim enclosure components.**
 
