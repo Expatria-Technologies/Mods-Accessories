@@ -52,6 +52,7 @@ Within the sub-folder for your mod, please include a brief README with any detai
 | Creator | Mod Title | Description | 
 | --- | --- | --- |
 | Expatria | [Limit PCB Case](./Expatria/Limit_PCB_Case) | Limit Breakout Case |
+| miniwini | [Limit_PCB_Enclosure](./Community_Submissions/Limit_PCB_Enclosure) | Enclosure for Limit Switch PCB |
 
 
 ## Switch Breakout
